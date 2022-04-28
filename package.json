@@ -1,0 +1,30 @@
+{
+  "name": "genius-car-service-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgrammingHero1/genius-car-service-server-module-66.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProgrammingHero1/genius-car-service-server-module-66/issues"
+  },
+  "homepage": "https://github.com/ProgrammingHero1/genius-car-service-server-module-66#readme",
+  "devDependencies": {},
+  "description": "\"# car-server\" \r #\u0000 \u0000c\u0000a\u0000r\u0000-\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000#\u0000 \u0000c\u0000a\u0000r\u0000-\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000#\u0000 \u0000g\u0000e\u0000n\u0000i\u0000u\u0000s\u0000-\u0000c\u0000a\u0000r\u0000\r\u0000 \u0000"
+}
